@@ -27,6 +27,12 @@ Para o PC1:
 - Documentação da camada Bronze (coluna descrição tamanho e tipo) Analytics notebook python ( quantos dados nulos, zeros etc, sem tratar)
 - MER / DER / DLD / DDL (Script de geração das tabelas)
 - Job ETL (Raw -> Silver) Fica na camada silver.
+- Lake House Populado ( abrir o banco de daos para o professor) Indice
+- Banco de dados **PRECISA SER DOCKERIZADO ( TER DOCKERFILE)**
+- Quando rodar docker compose up subir e popular o banco para ele so ver a documentação
+
+DATA PROVA 04/10/2025
+DATA DE ENTREGA 11/10/2025
 
 
 #### DATA visualization
